@@ -37,7 +37,7 @@ const burgerIngredient (props) => {
       	      ingredient = null;
       }
 
-      return ingredient
+      return ingredient;
 };
 
 export default burgerIngredient;
