@@ -1,5 +1,4 @@
 import React from 'react';
-import Aux from '../../../hoc/Auxes';
 import classes from './Backdrop.css';
 
 const backdrop = (props) => (
